@@ -5,8 +5,7 @@
 <br />
 <div align="center">
  <h2 align="center">IntelliMock</h2>
- <h3 align="center">CS732 - Team Peach Peacocks
-</h3>
+ 
 
 
  <img src="assets/images/team_logo.png" alt="Team Peach Peacocks Logo" width="110"/>
@@ -64,6 +63,10 @@
 
 
 ### What does this project do?
+
+<video src="https://github.com/user-attachments/assets/592935ea-3c32-4497-95f6-a6b053d07aa6" controls></video>
+
+
 **IntelliMock** is an AI-powered mock interview platform designed to help job seekers, especially students and recent graduates, prepare for interviews in a realistic, personalised, and accessible way. It simulates real-world interviews using an intelligent virtual interviewer that adapts dynamically to user input, CVs, job descriptions, and uploaded documents.
 
 
@@ -91,6 +94,14 @@ The core features of IntelliMock include:
 
 
  <br />
+
+ ### Example Feedback and Scoring Generated  
+ <table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;"><img src="https://github.com/user-attachments/assets/59799346-2986-4259-9f70-c7d38c3cfede" style="width: 100%; height: auto;" /></td>
+    <td style="width: 100%;"><img src="https://github.com/user-attachments/assets/b086f924-85bb-40f5-a6a7-624a9cd95157" style="width: 100%; height: auto;" /></td>
+  </tr>
+</table>
 
 
 ### Tech Stack Used
