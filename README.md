@@ -166,7 +166,7 @@ The core features of IntelliMock include:
 
 2. **Navigate to the project directory**:
     ```sh
-   cd group-project-peach-peacocks
+   cd IntelliMock-Project
     ```
 ### Frontend
 
