@@ -160,7 +160,7 @@ The core features of IntelliMock include:
 
 
     ```sh
-   git clone https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks.git
+   git clone https://github.com/bwen12/IntelliMock-Project.git
     ```
 
 
