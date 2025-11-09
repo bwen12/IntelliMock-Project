@@ -297,7 +297,7 @@ If it's not installed or the version is outdated, check [Prerequisites](#2-prere
       start target\site\jacoco\index.html   # Windows
       ```
 
-### [find More information on how we tested IntelliMock](https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/wiki/testing)
+
 
  <br />
 
