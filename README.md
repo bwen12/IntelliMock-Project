@@ -15,6 +15,9 @@
  <strong>AI-powered mock interview simulator</strong>
  <br />
  <br />
+ <strong>Available here: <a href="https://intellimock.netlify.app">IntelliMock</a></strong>
+ <br />
+  (Deployment details below)
 </p>
 <a href="https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
 ·
