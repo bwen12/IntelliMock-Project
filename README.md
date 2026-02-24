@@ -5,17 +5,11 @@
 <br />
 <div align="center">
  <h2 align="center">IntelliMock</h2>
- 
-
-
- <img src="assets/images/team_logo.png" alt="Team Peach Peacocks Logo" width="110"/>
-
-
  <p align="center">
- <strong>AI-powered mock interview simulator</strong>
+ <strong>An AI-powered mock interview simulator</strong>
  <br />
  <br />
- <strong>Available here: <a href="https://intellimock.netlify.app">IntelliMock</a></strong>
+ <strong>Available free here: <a href="https://intellimock.netlify.app">IntelliMock</a></strong>
  <br />
   (Deployment details below)
 </p>
